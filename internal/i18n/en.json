@@ -871,6 +871,7 @@
   "settings.selectionStyle": "Selection style",
   "settings.settingsApplied": "Settings applied",
   "settings.shell": "Shell",
+  "settings.shellIntegration": "Shell integration",
   "settings.showSaveAllQuitButton": "Show Save All & Quit button",
   "settings.showTrailingNewline": "Show trailing newline",
   "settings.sidebar": "Sidebar",
